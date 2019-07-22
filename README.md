@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis
 
-This project is part of Udacity Data Analyst Nanodegree program.
+This project is part of Udacity Data Analyst Nanodegree program. And I chose the White Wine Quality Data Set for this project.
 
 ## Project Overview
 
@@ -15,10 +15,6 @@ You will need to install R. After installing R, you will need to download and in
 * install.packages("dplyr", dependencies = T)
 
 ## Project Details
-
-### Choose a Data Set
-
-I chose the White Wine Quality Data Set.
 
 ### Document your Analysis
 

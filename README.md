@@ -1,6 +1,7 @@
 # Exploratory-Data-Analysis
 
 This project is part of Udacity Data Analyst Nanodegree program. 
+
 I chose the White Wine Quality Data Set for this project.
 
 ## Project Overview

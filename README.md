@@ -1,12 +1,10 @@
 # Exploratory-Data-Analysis
 
-This project is part of Udacity Data Analyst Nanodegree program. 
-
-I chose the White Wine Quality Data Set for this project.
+This project was completed as part of the Udacity Data Analyst Nanodegree program requirements.
 
 ## Project Overview
 
-In this project, I will use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
+In this project, I will use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.I chose the White Wine Quality Data Set for this project.
 
 ## What do I need to install?
 
